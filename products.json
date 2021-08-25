@@ -1,12 +1,50 @@
 [
   {
     "id": 1,
-    "name": "Товар 1",
-    "price": 100
+    "name": "Пироженка с кремом",
+    "price": 110,
+    "img": "https://raw.githubusercontent.com/mohnatus/webdev-basics/main/1.jpg"
   },
   {
     "id": 2,
-    "name": "Товар 2",
-    "price": 200
+    "name": "Вкусняшка с клубникой",
+    "price": 230,
+    "img": "https://raw.githubusercontent.com/mohnatus/webdev-basics/main/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Кексик",
+    "price": 130,
+    "img": "https://raw.githubusercontent.com/mohnatus/webdev-basics/main/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Блинчики с ежевичкой",
+    "price": 280,
+    "img": "https://raw.githubusercontent.com/mohnatus/webdev-basics/main/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Печенька с вишенкой",
+    "price": 90,
+    "img": "https://raw.githubusercontent.com/mohnatus/webdev-basics/main/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Печенюшка вкусная",
+    "price": 80,
+    "img": "https://raw.githubusercontent.com/mohnatus/webdev-basics/main/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Вкусняшка с малиной",
+    "price": 220,
+    "img": "https://raw.githubusercontent.com/mohnatus/webdev-basics/main/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Башенка из блинчиков",
+    "price": 270,
+    "img": "https://raw.githubusercontent.com/mohnatus/webdev-basics/main/8.jpg"
   }
 ]
